@@ -2,6 +2,8 @@ const chineseZodiac = [
     {
         id: 1,
         name: "Rat",
+        image: "/images/rat.svg",
+        alt: "Rat Image",
         years: [2020, 2008, 1996, 1984],
         luckyNumbers: [2, 3],
         luckRating: 7,
@@ -13,6 +15,8 @@ const chineseZodiac = [
     {
         id: 2,
         name: "Ox",
+        image: "/images/ox.svg",
+        alt: "Ox Image",
         years: [2021, 2009, 1997, 1985],
         luckyNumbers: [1, 4],
         luckRating: 8,
@@ -24,6 +28,8 @@ const chineseZodiac = [
     {
         id: 3,
         name: "Tiger",
+        image: "/images/tiger.svg",
+        alt: "Tiger Image",
         years: [2022, 2010, 1998, 1986],
         luckyNumbers: [1, 3, 4],
         luckRating: 9,
@@ -35,6 +41,8 @@ const chineseZodiac = [
     {
         id: 4,
         name: "Rabbit",
+        image: "/images/rabbit.svg",
+        alt: "Rabbit Image",
         years: [2023, 2011, 1999, 1987],
         luckyNumbers: [3, 4, 6],
         luckRating: 6,
@@ -46,6 +54,8 @@ const chineseZodiac = [
     {
         id: 5,
         name: "Dragon",
+        image: "/images/dragon.svg",
+        alt: "Dragon Image",
         years: [2024, 2012, 2000, 1988],
         luckyNumbers: [1, 6, 7],
         luckRating: 8,
@@ -57,6 +67,8 @@ const chineseZodiac = [
     {
         id: 6,
         name: "Snake",
+        image: "/images/snake.svg",
+        alt: "Snake Image",
         years: [2025, 2013, 2001, 1989],
         luckyNumbers: [2, 8, 9],
         luckRating: 7,
@@ -68,6 +80,8 @@ const chineseZodiac = [
     {
         id: 7,
         name: "Horse",
+        image: "/images/horse.svg",
+        alt: "Horse Image",
         years: [2026, 2014, 2002, 1990],
         luckyNumbers: [2, 3, 7],
         luckRating: 8,
@@ -79,6 +93,8 @@ const chineseZodiac = [
     {
         id: 8,
         name: "Goat",
+        image: "/images/goat.svg",
+        alt: "Goat Image",
         years: [2027, 2015, 2003, 1991],
         luckyNumbers: [2, 7],
         luckRating: 9,
@@ -90,6 +106,8 @@ const chineseZodiac = [
     {
         id: 9,
         name: "Monkey",
+        image: "/images/monkey.svg",
+        alt: "Monkey Image",
         years: [2028, 2016, 2004, 1992],
         luckyNumbers: [4, 9],
         luckRating: 6,
@@ -101,6 +119,8 @@ const chineseZodiac = [
     {
         id: 10,
         name: "Rooster",
+        image: "/images/rooster.svg",
+        alt: "Rooster Image",
         years: [2029, 2017, 2005, 1993],
         luckyNumbers: [5, 7, 8],
         luckRating: 8,
@@ -112,6 +132,8 @@ const chineseZodiac = [
     {
         id: 11,
         name: "Dog",
+        image: "/images/dog.svg",
+        alt: "Dog Image",
         years: [2030, 2018, 2006, 1994],
         luckyNumbers: [3, 4, 9],
         luckRating: 7,
@@ -123,6 +145,8 @@ const chineseZodiac = [
     {
         id: 12,
         name: "Pig",
+        image: "/images/pig.svg",
+        alt: "Pig Image",
         years: [2031, 2019, 2007, 1995],
         luckyNumbers: [2, 5, 8],
         luckRating: 8,

@@ -4,8 +4,10 @@ function App() {
     const items = chineseZodiac.map((item) => {
         return (
             <Item
-                id={item.id}
+                key={item.id}
                 name={item.name}
+                image={item.image}
+                alt={item.alt}
                 years={item.years}
                 luckyNumbers={item.luckyNumbers}
                 luckRating={item.luckRating}
