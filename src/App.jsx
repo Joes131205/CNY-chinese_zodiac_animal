@@ -1,5 +1,6 @@
 import chineseZodiac from "./chineseZodiac.js";
 import Item from "./Item.jsx";
+import Warning from "./Warning.jsx";
 function App() {
     const items = chineseZodiac.map((item) => {
         return (
@@ -19,9 +20,12 @@ function App() {
         );
     });
     return (
-        <div className="grid grid-cols-6 grid-rows-2 w-screen h-screen">
-            {items}
-        </div>
+        <>
+            <div className="flex flex-col md:grid md:grid-cols-6 md:grid-rows-2 w-screen h-screen md:mt-0 mt-10">
+                {items}
+            </div>
+            <Warning />
+        </>
     );
 }
 

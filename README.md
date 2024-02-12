@@ -1,8 +1,7 @@
-# React + Vite
+# Chinese Zodiac Animals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Just a boredom project lol, also celebrating CNY I suppose :)
 
-Currently, two official plugins are available:
+### Don't take the data presented seriously, as it may not be true and is just for entertainment purposes only.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### SVG's by SVGRepo
